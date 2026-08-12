@@ -1,4 +1,4 @@
-package com.miniblog.post_service;
+package com.miniblog.post_service.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

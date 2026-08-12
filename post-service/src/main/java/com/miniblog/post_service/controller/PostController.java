@@ -1,5 +1,7 @@
-package com.miniblog.post_service;
+package com.miniblog.post_service.controller;
 
+import com.miniblog.post_service.model.Post;
+import com.miniblog.post_service.repository.PostRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
